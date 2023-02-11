@@ -1,11 +1,11 @@
 # hosts-dev
 
 [webservers]
-<IP_ADDRESS>
-<IP_ADDRESS>
+52.45.27.190
+107.23.168.139
 
 [loadbalancers]
-<IP_ADDRESS>
+54.205.87.210
 
 [local]
 control ansible_connection=local
