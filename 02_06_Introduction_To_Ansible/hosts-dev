@@ -8,4 +8,4 @@
 54.205.87.210
 
 [local]
-control ansible_connection=local
+#control ansible_connection=local
